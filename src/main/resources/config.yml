@@ -1,0 +1,4 @@
+time: '&aThe time is &6{ticks} &aticks'
+day: '&aSet to day'
+night: '&aSet to night'
+changed: '&aTime changed'

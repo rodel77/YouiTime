@@ -1,0 +1,11 @@
+name: YouiTime
+main: xyz.rodeldev.youitime.YouiTimePlugin
+description: And example to test Youi
+author: rodel
+version: 1.0
+softdepend: [Youi]
+api-version: 1.13
+
+commands:
+  youi-time:
+    description: Open the time control menu
